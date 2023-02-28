@@ -1,4 +1,5 @@
 Tema 1: Introducción a Git
-Tema 2: flujo de trabajo básico[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[F[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-tema 3: gestión de ramas[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[G[D[D[D[D[D[D[D[T[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Tema 2: flujo de trabajo básico
+Tema 3: gestión de ramas
 Tema 4: Repositorios remotos
+Tema 5: Conceptos avanzados
